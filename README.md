@@ -42,9 +42,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TxChxn&layout=compact&theme=radical)
 
-## Contribution Graph
 
-![TxChxn's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=TxChxn&theme=react-dark)
 
 Thanks for visiting my profile! Feel free to explore my repositories and drop a star if you find something interesting. 😊
 
